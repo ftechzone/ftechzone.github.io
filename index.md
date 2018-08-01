@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ftech Zone
 
 You can use the [editor on GitHub](https://github.com/ftechzone/ftechzone.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
